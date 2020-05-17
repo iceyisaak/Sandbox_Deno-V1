@@ -2,7 +2,6 @@
 
 ```
 deno run --allow-net app.ts
-
 ```
 
 Test running deno
